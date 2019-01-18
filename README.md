@@ -19,3 +19,16 @@
   - 64 - 48 - 16 = 0
   - 16 - 16 = 0 
 + And so we are correct !
+
+
+# primedsoft-$zara
+## How to Use your ATM Card
+#### STEPS: How to use your ATM Card
+* Walk to the ATM stand and slot in your card into the space provided for ATM cards
+* Type in your ATM four digit pin after the request prompt which is used to verify card owner
+* Select your transaction type
+  - Select your bank account type, whether current, savings, card recharge, pin change, or ATM transfer
++ If you selected Savings; also select transaction amount
++ Take your cash from the payment box provided
++ Click or Select the END button at the request to perform another transaction
++ Walk away with your cash.
